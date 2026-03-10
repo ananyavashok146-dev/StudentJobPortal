@@ -1,0 +1,19 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CareerBridge</title>
+    <link rel="stylesheet" href="{% static 'dashboard/css/style.css' %}">
+</head>
+<body style="text-align:center; padding:100px; background:#0a0e1a; color:white;">
+
+    <h1>Welcome to CareerBridge 🚀</h1>
+    <p>AI Powered Student Career Platform</p>
+
+    <a href="{% url 'student_portal' %}"
+       style="padding:12px 25px; background:#00e5ff; color:black; text-decoration:none; border-radius:8px;">
+       Enter Student Portal
+    </a>
+
+</body>
+</html>
