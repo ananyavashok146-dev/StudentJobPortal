@@ -1,0 +1,14 @@
+CAREERBRIDGE/backend/accounts/migrations/0001_initial.py
+CAREERBRIDGE/backend/accounts/migrations/__init__.py
+CAREERBRIDGE/backend/accounts/migrations/0003_studentprofile_aptitude_passed_and_more.py
+CAREERBRIDGE/backend/accounts/migrations/0002_employerprofile_studentprofile.py
+CAREERBRIDGE/backend/accounts/migrations/0003_studentprofile_aptitude_passed_and_more.py
+CAREERBRIDGE/backend/accounts/migrations/0004_remove_employerprofile_company_website.py
+CAREERBRIDGE/backend/courses/migrations/0001_initial.py
+CAREERBRIDGE/backend/verification/migrations/0003_alter_verificationdocument_unique_together.py
+CAREERBRIDGE/backend/verification/migrations/0002_make_student_nullable.py
+CAREERBRIDGE/backend/verification/migrations/0001_initial.py
+CAREERBRIDGE/backend/resume/migrations/0002_make_student_nullable.py
+CAREERBRIDGE/backend/resume/migrations/0001_initial.py
+CAREERBRIDGE/backend/jobs/migrations/0002_job_deadline.py
+CAREERBRIDGE/backend/jobs/migrations/0001_initial.py
